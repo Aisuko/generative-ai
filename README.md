@@ -8,3 +8,7 @@
 
 ### On mps
 ![mps](images/image.png)
+
+
+## Credit
+- [Huggingface diffusers](https://github.com/huggingface/diffusers)

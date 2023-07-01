@@ -149,4 +149,3 @@ dependencies:
       - tqdm==4.65.0
       - transformers==4.30.2
       - zipp==3.15.0
-prefix: /Users/tifa/homebrew/Caskroom/miniconda/base/envs/diffusers
