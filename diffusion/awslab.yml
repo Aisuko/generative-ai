@@ -1,0 +1,13 @@
+# AWS Sagemaker customeize env's configuration
+name: diffusers
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - ipython
+  - ipykernel
+  - diffusers
+  - transformers
+  - accelerate
+  - scipy
+  - ftfy
