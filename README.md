@@ -6,8 +6,9 @@
 |3|Deconstruct the basic pipeline||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/diffusion/diffusers/deconstruct_basic_pipeline.ipynb)||
 |4|Details for models and schedulers||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/diffusion/diffusers/details_for_models_scheduler.ipynb)||
 |5|Effective and Efficient diffusion||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/diffusion/diffusers/effective_and_efficient_diffusion.ipynb)||
-|6|Generting by using float16(sppeding up)||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/diffusion/diffusers/generating_by_f16.ipynb)||
+|6|Generting by using float16(sppeding up)||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/diffusion/diffusers/generating_by_fp16.ipynb)||
 |7|Stable Diffusion v1.5 demo||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/diffusion/diffusers/stable_diffusion_v1_5_demo.ipynb)||
+|8|Load checkpoints models and schedulers||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/diffusion/diffusers/load_checkpoints_models_schedulers.ipynb)||
 
 ## implementation
 
