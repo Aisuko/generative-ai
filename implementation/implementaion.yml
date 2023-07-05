@@ -109,4 +109,3 @@ dependencies:
       - urllib3==2.0.3
       - xxhash==3.2.0
       - yarl==1.9.2
-prefix: /Users/tifa/homebrew/Caskroom/miniconda/base/envs/imp
