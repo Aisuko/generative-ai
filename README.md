@@ -9,6 +9,7 @@
 |6|Generting by using float16(sppeding up)||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/diffusion/diffusers/generating_by_fp16.ipynb)||
 |7|Stable Diffusion v1.5 demo||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/diffusion/diffusers/stable_diffusion_v1_5_demo.ipynb)||
 |8|Load checkpoints models and schedulers||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/diffusion/diffusers/load_checkpoints_models_schedulers.ipynb)||
+|9|Schedulers Performance||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/diffusion/diffusers/schedulers_performance.ipynb)||
 
 ## implementation
 
