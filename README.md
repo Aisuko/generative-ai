@@ -10,6 +10,7 @@
 |7|Stable Diffusion v1.5 demo||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/diffusion/diffusers/stable_diffusion_v1_5_demo.ipynb)||
 |8|Load checkpoints models and schedulers||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/diffusion/diffusers/load_checkpoints_models_schedulers.ipynb)||
 |9|Schedulers Performance||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/diffusion/diffusers/schedulers_performance.ipynb)||
+|10|Stable diffusion with diffusers||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/diffusion/diffusers/stable_diffusion_with_diffusers.ipynb)||
 
 ## implementation
 
@@ -17,7 +18,7 @@ It is import for us implement the algorithems on paper by using code. Here is th
 
 |No|Title|Open in Studio Lab|Open in Kaggle|Open in Colab|Paper|
 |---|---|---|---|---|---|
-|1|The annotated diffusion model(working on)||||[1503.03585](https://arxiv.org/abs/1503.03585),[1907.05600](https://arxiv.org/abs/1907.05600),[2006.11239](https://arxiv.org/abs/2006.11239)|
+|1|The annotated diffusion model(working on)||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/implementation/the_annotated_diffusion_model.ipynb)||[1503.03585](https://arxiv.org/abs/1503.03585),[1907.05600](https://arxiv.org/abs/1907.05600),[2006.11239](https://arxiv.org/abs/2006.11239)|
 
 ## On Kaggle
 
