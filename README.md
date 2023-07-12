@@ -38,3 +38,4 @@ All the notebooks are support [mps](https://aisuko.gitbook.io/wiki/ai-techniques
 
 ## Credit
 - [Huggingface diffusers](https://github.com/huggingface/diffusers)
+- [Microsoft learning](https://learn.microsoft.com/en-au/training/modules/intro-machine-learning-pytorch/)
