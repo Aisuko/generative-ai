@@ -29,6 +29,7 @@ No|Title|Kaggle
 2|[Loading and normalizing datasets](pytorch/loading_and_normalizing_datasets.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/loading-and-normalizing-datasets)
 3|[Building the model layers](pytorch/building_the_model_layer.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/building-the-model-layers)
 4|[Automatic differentiation](pytorch/automatic_differentiation.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/automatic-differentiation)
+5|[About the optimization loop](pytorch/about_the_optimization_loop.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/about-the-optimization-loop)
 
 ## On Kaggle
 
