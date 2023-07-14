@@ -16,20 +16,22 @@
 
 It is import for us implement the algorithems on paper by using code. Here is the list of the notebooks:
 
-|No|Title|Open in Studio Lab|Open in Kaggle|Open in Colab|Paper|
+|No|Title|Open in Studio Lab|Kaggle|Open in Colab|Paper|
 |---|---|---|---|---|---|
-|1|The annotated diffusion model(working on)||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/implementation/the_annotated_diffusion_model.ipynb)||[1503.03585](https://arxiv.org/abs/1503.03585),[1907.05600](https://arxiv.org/abs/1907.05600),[2006.11239](https://arxiv.org/abs/2006.11239)|
+|1|The annotated diffusion model||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/implementation/the_annotated_diffusion_model.ipynb)||[1503.03585](https://arxiv.org/abs/1503.03585),[1907.05600](https://arxiv.org/abs/1907.05600),[2006.11239](https://arxiv.org/abs/2006.11239)|
 
 
 ## PyTorch
 
-No|Title|Kaggle
----|---|---
-1|[What are Tensors?](pytorch/what_are_tensors.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/what-are-tensors)
-2|[Loading and normalizing datasets](pytorch/loading_and_normalizing_datasets.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/loading-and-normalizing-datasets)
-3|[Building the model layers](pytorch/building_the_model_layer.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/building-the-model-layers)
-4|[Automatic differentiation](pytorch/automatic_differentiation.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/automatic-differentiation)
-5|[About the optimization loop](pytorch/about_the_optimization_loop.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/about-the-optimization-loop)
+|No|Title|Kaggle|
+|---|---|---|
+|1|[What are Tensors?](pytorch/what_are_tensors.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/what-are-tensors)|
+|2|[Loading and normalizing datasets](pytorch/loading_and_normalizing_datasets.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/loading-and-normalizing-datasets)|
+|3|[Building the model layers](pytorch/building_the_model_layer.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/building-the-model-layers)|
+|4|[Automatic differentiation](pytorch/automatic_differentiation.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/automatic-differentiation)|
+|5|[About the optimization loop](pytorch/about_the_optimization_loop.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/about-the-optimization-loop)|
+|6|[Load and run model predictions](pytorch/load_and_run_model_predictions.ipynb)||
+|7|[The full model building process](pytorch/the_full_model_building_process.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/the-full-model-building-process)|
 
 ## On Kaggle
 
