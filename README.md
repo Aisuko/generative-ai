@@ -32,6 +32,7 @@ It is import for us implement the algorithems on paper by using code. Here is th
 |5|[About the optimization loop](pytorch/about_the_optimization_loop.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/about-the-optimization-loop)|
 |6|[Load and run model predictions](pytorch/load_and_run_model_predictions.ipynb)||
 |7|[The full model building process](pytorch/the_full_model_building_process.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/the-full-model-building-process)|
+|8|[Introduction to CV with PyTorch](pytorch/computer_vision/introduction_to_cv_with_pytorch.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/introduction-to-computer-vision-with-pytorch)|
 
 ## On Kaggle
 
