@@ -20,7 +20,7 @@ dependencies:
   - cffi=1.15.1=py311hae827db_3
   - charset-normalizer=3.1.0=pyhd8ed1ab_0
   - comm=0.1.3=pyhd8ed1ab_0
-  - cryptography=39.0.1=py311h834c97f_0
+  - cryptography=38.0.4=py311h507f6e9_0
   - dav1d=1.2.1=hb547adb_0
   - debugpy=1.6.7=py311ha397e9f_0
   - decorator=5.1.1=pyhd8ed1ab_0
@@ -137,6 +137,7 @@ dependencies:
   - sympy=1.12=pypyh9d50eac_103
   - tk=8.6.12=he1e0b03_0
   - torchaudio=2.0.2=py311_cpu
+  - torchinfo=1.8.0=pyhd8ed1ab_0
   - torchvision=0.15.2=py311_cpu
   - tornado=6.3.2=py311heffc1b2_0
   - traitlets=5.9.0=pyhd8ed1ab_0
