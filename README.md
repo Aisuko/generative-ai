@@ -35,6 +35,7 @@ It is import for us implement the algorithems on paper by using code. Here is th
 |8|[Introduction to CV with PyTorch](pytorch/computer_vision/introduction_to_cv_with_pytorch.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/introduction-to-computer-vision-with-pytorch)|
 |9|[Training a simple sense neural network](pytorch/computer_vision/training_a_simple_cnn.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/training-a-simple-dense-neural-network)|
 |10|[Convolutional Neural Networks](pytorch/computer_vision/use_a_convolutional_neural_network)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/use-a-convolutional-neural-networks)|
+|11|[Multilayer Dense Neural Network](pytorch/computer_vision/training_multi_layer_convolutional_neural_network.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/Multi-layer-dense-neural-networks)|
 
 ## On Kaggle
 
