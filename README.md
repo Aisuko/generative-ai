@@ -12,7 +12,7 @@
 |9|Schedulers Performance||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/diffusion/diffusers/schedulers_performance.ipynb)||
 |10|Stable diffusion with diffusers||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/diffusion/diffusers/stable_diffusion_with_diffusers.ipynb)||
 
-## implementation
+## Implementation
 
 It is import for us implement the algorithems on paper by using code. Here is the list of the notebooks:
 
@@ -35,6 +35,8 @@ It is import for us implement the algorithems on paper by using code. Here is th
 |8|[Introduction to CV with PyTorch](pytorch/computer_vision/introduction_to_cv_with_pytorch.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/introduction-to-computer-vision-with-pytorch)|
 |9|[Training a simple sense neural network](pytorch/computer_vision/training_a_simple_cnn.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/training-a-simple-dense-neural-network)|
 |10|[Convolutional Neural Networks](pytorch/computer_vision/use_a_convolutional_neural_network)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/use-a-convolutional-neural-networks)|
+|11|[Multilayer Dense Neural Network](pytorch/computer_vision/training_multi_layer_convolutional_neural_network.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/multilayer-dense-convolutional-neural-network/notebook)|
+|12|[Pre-trained models and transfer learning](pytorch/computer_vision/pre_trained_models_and_transfer_learning.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/pre-trained-models-and-transfer-learning)|
 
 ## On Kaggle
 
