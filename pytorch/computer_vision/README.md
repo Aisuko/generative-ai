@@ -22,3 +22,10 @@ By the end of this module, you'll be able to train image classification models o
 * Basic knowledge of Python and Jupyter Notebooks
 * Familiarity with PyTorch framework, including tensors, basics of back propagation and building models
 * Understanding machine learning concepts, such as classification, train/test dataset, accuracy, etc.
+
+
+## Takeaways
+
+We can know how convolutional nerual networks work and how they can capture patterns in 2D images. In addition, CNNs can also be used for finding patterns in 1-dimentional signals (such as sound waves, or time series), and in multi-dimensional structures like events in video, where some patterns are repated across frames.
+
+Also, CNNs are simple building blocks for solving more complex computer vision tasks, such as Image Generation. **Generative Adversarial Networks** can be used to generate images similar to the ones in the given dataset. For example, like computer-generated paintings. Similarly, CNNs are used for object detection, instance segmentation.

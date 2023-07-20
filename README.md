@@ -37,6 +37,8 @@ It is import for us implement the algorithems on paper by using code. Here is th
 |10|[Convolutional Neural Networks](pytorch/computer_vision/use_a_convolutional_neural_network)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/use-a-convolutional-neural-networks)|
 |11|[Multilayer Dense Neural Network](pytorch/computer_vision/training_multi_layer_convolutional_neural_network.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/multilayer-dense-convolutional-neural-network/notebook)|
 |12|[Pre-trained models and transfer learning](pytorch/computer_vision/pre_trained_models_and_transfer_learning.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/pre-trained-models-and-transfer-learning)|
+|13|[Lightweight Networks and MobileNet](pytorch/computer_vision/lightweight_networks_and_mobileNet.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/lightweight-networks-and-mobilenet)|
+
 
 ## On Kaggle
 
