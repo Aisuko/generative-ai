@@ -13,31 +13,17 @@
 |10|Stable diffusion with diffusers||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/diffusion/diffusers/stable_diffusion_with_diffusers.ipynb)||
 
 ## Implementation
-
-It is import for us implement the algorithems on paper by using code. Here is the list of the notebooks:
-
 |No|Title|Open in Studio Lab|Kaggle|Open in Colab|Paper|
 |---|---|---|---|---|---|
 |1|The annotated diffusion model||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/implementation/the_annotated_diffusion_model.ipynb)||[1503.03585](https://arxiv.org/abs/1503.03585),[1907.05600](https://arxiv.org/abs/1907.05600),[2006.11239](https://arxiv.org/abs/2006.11239)|
 
 
-## PyTorch
+## PyTorch Fundamentals
 
-|No|Title|Kaggle|
-|---|---|---|
-|1|[What are Tensors?](pytorch/what_are_tensors.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/what-are-tensors)|
-|2|[Loading and normalizing datasets](pytorch/loading_and_normalizing_datasets.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/loading-and-normalizing-datasets)|
-|3|[Building the model layers](pytorch/building_the_model_layer.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/building-the-model-layers)|
-|4|[Automatic differentiation](pytorch/automatic_differentiation.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/automatic-differentiation)|
-|5|[About the optimization loop](pytorch/about_the_optimization_loop.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/about-the-optimization-loop)|
-|6|[Load and run model predictions](pytorch/load_and_run_model_predictions.ipynb)||
-|7|[The full model building process](pytorch/the_full_model_building_process.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/the-full-model-building-process)|
-|8|[Introduction to CV with PyTorch](pytorch/computer_vision/introduction_to_cv_with_pytorch.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/introduction-to-computer-vision-with-pytorch)|
-|9|[Training a simple sense neural network](pytorch/computer_vision/training_a_simple_cnn.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/training-a-simple-dense-neural-network)|
-|10|[Convolutional Neural Networks](pytorch/computer_vision/use_a_convolutional_neural_network)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/use-a-convolutional-neural-networks)|
-|11|[Multilayer Dense Neural Network](pytorch/computer_vision/training_multi_layer_convolutional_neural_network.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/multilayer-dense-convolutional-neural-network/notebook)|
-|12|[Pre-trained models and transfer learning](pytorch/computer_vision/pre_trained_models_and_transfer_learning.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/pre-trained-models-and-transfer-learning)|
-|13|[Lightweight Networks and MobileNet](pytorch/computer_vision/lightweight_networks_and_mobileNet.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/lightweight-networks-and-mobilenet)|
+* [Basic programming with PyTorch](pytorch/README.md)
+* [Computer vision with PyTorch](pytorch/computer_vision/README.md)
+* [Natural language processing with PyTorch](pytorch/natural_language_processing/README.md)
+
 
 
 ## On Kaggle

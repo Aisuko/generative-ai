@@ -17,6 +17,16 @@ By the end of this module, you'll be able to train image classification models o
 * Train a neural network to recognize handwritten digits and classify cats and dogs
 * Learn how to use Transfer Learning to solve real-world classification problems with PyTorch
 
+## Notebooks
+|No|Title|Kaggle|
+|---|---|---|
+|1|[Introduction to CV with PyTorch](computer_vision/introduction_to_cv_with_pytorch.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/introduction-to-computer-vision-with-pytorch)|
+|2|[Training a simple sense neural network](computer_vision/training_a_simple_cnn.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/training-a-simple-dense-neural-network)|
+|3|[Convolutional Neural Networks](computer_vision/use_a_convolutional_neural_network)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/use-a-convolutional-neural-networks)|
+|4|[Multilayer Dense Neural Network](computer_vision/training_multi_layer_convolutional_neural_network.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/multilayer-dense-convolutional-neural-network/notebook)|
+|5|[Pre-trained models and transfer learning](computer_vision/pre_trained_models_and_transfer_learning.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/pre-trained-models-and-transfer-learning)|
+|6|[Lightweight Networks and MobileNet](computer_vision/lightweight_networks_and_mobileNet.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/lightweight-networks-and-mobilenet)|
+
 ## Prerequisites
 
 * Basic knowledge of Python and Jupyter Notebooks
