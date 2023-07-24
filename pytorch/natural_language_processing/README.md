@@ -17,8 +17,9 @@ NLP has experienced fast growth primarily due to the performance of the language
 |No|Title|Kaggle|
 |---|---|---|
 |1|[Representing text as Tensors](representing_text_as_tensors.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/representing-text-as-tensors)|
-|2|[Represent words with embeddings](represent_words_with_embeddings.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/represent-word-with-embeddings)|
-|3|[Capture patterns with RNN](capture_patterns_with_recurrent_neural_networks.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/)|
+|2|[Represent words with embeddings](represent_words_with_embeddings.ipynb)|To be fixed|
+|3|[Capture patterns with RNN](capture_patterns_with_recurrent_neural_networks.ipynb)|To be fixed|
+|4|[Generate text with RNN](generate_text_with_recurrent_networks.ipynb)|Working on|
 
 ## Netural Language Tasks
 
