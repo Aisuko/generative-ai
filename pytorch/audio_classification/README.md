@@ -12,4 +12,5 @@ The assistant must conver the speech to text, and then convert the text into num
 ## Notebooks
 |No|Title|Kaggle|
 |---|---|---|
-||||
+|1|[Understand audio data and concepts](understand_audio_data_and_concepts.ipynb)|(Need to review)|
+|2|[Audio transforms and visualizations](audio_transforms_and_visualizations.ipynb)|(Need to review)|
