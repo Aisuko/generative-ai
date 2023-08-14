@@ -50,6 +50,11 @@ freezeimp:
 	@conda env export > implementation/implementaion.yml
 	@echo "Dependencies frozen."
 
+.PONY: installimp
+installimp:
+	@echo "Installing dependencies..."
+	@conda env create --name imp --file implementation/implementaion.yml
+	@echo "Dependencies installed."
 
 ###################################################################################################
 # Commit and recommit changes to github
