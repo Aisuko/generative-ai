@@ -55,20 +55,19 @@ If you find a bug, have a feature request, or encounter any issues, please check
 
 ## Coding Guidelines
 
-- [Provide links to any coding guidelines you follow]
+- No specific coding guidelines at the moment. Please make sure the notebook is well documented and easy to follow.
 
 ## Testing
 
-- [Explain how to run tests, if applicable]
+- If the notebook can be run succesfully on Kaggle, it is considered as tested.
 
 ## Documentation
 
-- [Explain how to generate documentation, if applicable]
+- We are all new in this field, more documentation is needed. And you will get a deep understanding of the topic by writing documentation.
 
 ## Community and Communication
 
-- Join our [community chat or forum link] to interact with other contributors and project maintainers.
-- You can also reach out via [your contact email or other communication channels].
+- You can reach out via the Github issue tracker.
 
 ## Acknowledgments
 

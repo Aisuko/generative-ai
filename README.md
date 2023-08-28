@@ -29,7 +29,7 @@
 
 ## On Kaggle
 
-All the notebooks are executed on Kaggle
+Many of the notebooks are executed on Kaggle
 
 [![All the notebooks execution on Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/code)
 
@@ -42,6 +42,10 @@ All the notebooks are support [mps](https://aisuko.gitbook.io/wiki/ai-techniques
 
 ![mps](images/image.png)
 
+
+## Contributing
+
+Warm welcome for any contributions, please follow the [contributing guidelines](CONTRIBUTING.md).
 
 ## Credit
 - [Huggingface diffusers](https://github.com/huggingface/diffusers)
