@@ -16,6 +16,7 @@
 |No|Title|Open in Studio Lab|Kaggle|Open in Colab|Paper|
 |---|---|---|---|---|---|
 |1|[The annotated diffusion model](implementation/the_annotated_diffusion_model.ipynb)||[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hololandscape/notebooks/blob/main/implementation/the_annotated_diffusion_model.ipynb)||[1503.03585](https://arxiv.org/abs/1503.03585),[1907.05600](https://arxiv.org/abs/1907.05600),[2006.11239](https://arxiv.org/abs/2006.11239)|
+|2|[QLoRA Fine-tuning for Falcon-7B with PEFT](implementation/qlora_for_ft_falcon_7b.ipynb)||Being reviewed|||
 
 
 ## PyTorch Fundamentals
