@@ -1,6 +1,6 @@
 ## Introduce PyTorch
 
-|No|Title|Kaggle|
+|No|Title|Open in Kaggle|
 |---|---|---|
 |1|[What are Tensors?](what_are_tensors.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/what-are-tensors)|
 |2|[Loading and normalizing datasets](loading_and_normalizing_datasets.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/aisuko/loading-and-normalizing-datasets)|
