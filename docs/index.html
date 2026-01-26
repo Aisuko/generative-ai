@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Generative AI Notebooks</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap"
+    />
+    <style>
+      body {
+        font-family: "Inter", "Space Grotesk", system-ui, sans-serif;
+      }
+
+      .bg-animated {
+        background: radial-gradient(600px 600px at 15% 10%, rgba(34, 211, 238, 0.2), transparent 60%),
+          radial-gradient(520px 520px at 85% 20%, rgba(59, 130, 246, 0.18), transparent 60%),
+          radial-gradient(700px 700px at 50% 85%, rgba(16, 185, 129, 0.18), transparent 65%);
+        background-size: 140% 140%;
+        animation: drift 18s ease-in-out infinite;
+      }
+
+      @keyframes drift {
+        0% {
+          background-position: 0% 0%;
+        }
+        50% {
+          background-position: 80% 20%;
+        }
+        100% {
+          background-position: 10% 90%;
+        }
+      }
+    </style>
+  </head>
+  <body class="bg-slate-950 text-slate-100">
+    <div class="fixed inset-0 -z-10 bg-slate-950 bg-animated"></div>
+    <header class="relative overflow-hidden">
+      <div class="absolute inset-0">
+        <div class="absolute -top-32 -right-24 h-96 w-96 rounded-full bg-cyan-400/10 blur-3xl"></div>
+        <div class="absolute top-20 left-0 h-72 w-72 rounded-full bg-emerald-400/10 blur-3xl"></div>
+      </div>
+      <div class="relative mx-auto flex w-full max-w-6xl items-center justify-between px-6 py-8">
+        <div class="text-lg font-semibold tracking-tight">Generative AI Labs</div>
+        <nav class="hidden items-center gap-6 text-sm text-slate-300 md:flex">
+          <a class="transition hover:text-cyan-300" href="#notebooks">Notebooks</a>
+          <a class="transition hover:text-cyan-300" href="#platform">Platform</a>
+          <a class="transition hover:text-cyan-300" href="#metrics">Metrics</a>
+          <a class="transition hover:text-cyan-300" href="https://github.com/Aisuko/generative-ai">GitHub</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <!-- Hero Section -->
+      <section class="relative mx-auto w-full max-w-6xl px-6 pb-20 pt-10">
+        <div class="grid gap-12 lg:grid-cols-[1.2fr_0.8fr]">
+          <div>
+            <p class="text-sm uppercase tracking-[0.35em] text-cyan-300">Open, modular, ready</p>
+            <h1 class="mt-4 text-4xl font-bold leading-tight text-white sm:text-5xl">
+              Practice modern ML with hands-on notebooks.
+            </h1>
+            <p class="mt-6 text-lg text-slate-300">
+              Explore PyTorch fundamentals, diffusion pipelines, and applied research notebooks designed for
+              fast learning. Launch instantly on SageMaker, Kaggle, or Colab and iterate with confidence.
+            </p>
+            <div class="mt-8 flex flex-wrap gap-4">
+              <a
+                class="rounded-full bg-gradient-to-r from-cyan-400 to-blue-500 px-6 py-3 text-sm font-semibold text-slate-900 shadow-lg transition hover:scale-105"
+                href="#notebooks"
+              >
+                Explore notebooks
+              </a>
+              <a
+                class="rounded-full border border-cyan-400/50 px-6 py-3 text-sm font-semibold text-cyan-200 transition hover:border-cyan-300 hover:text-cyan-100"
+                href="https://github.com/Aisuko/generative-ai#notebooks"
+              >
+                Open notebook table
+              </a>
+              <a
+                class="rounded-full border border-slate-600 px-6 py-3 text-sm font-semibold text-slate-100 transition hover:border-cyan-400 hover:text-cyan-300"
+                href="https://github.com/Aisuko/generative-ai"
+              >
+                View on GitHub
+              </a>
+            </div>
+          </div>
+          <div class="rounded-3xl border border-slate-700 bg-slate-900/70 p-8 shadow-xl">
+            <p class="text-xs uppercase tracking-[0.3em] text-cyan-300">Live catalog</p>
+            <h2 class="mt-4 text-2xl font-semibold">Notebook stack</h2>
+            <p class="mt-2 text-sm text-slate-300">Curated paths for PyTorch, diffusion, and implementations.</p>
+            <div class="mt-6 space-y-3">
+              <div class="flex items-center justify-between rounded-2xl border border-slate-700 bg-slate-950/60 px-4 py-3 text-sm text-slate-300">
+                <span>PyTorch foundations</span>
+                <span class="h-2.5 w-2.5 rounded-full bg-emerald-400 shadow-[0_0_12px_rgba(52,211,153,0.8)]"></span>
+              </div>
+              <div class="flex items-center justify-between rounded-2xl border border-slate-700 bg-slate-950/60 px-4 py-3 text-sm text-slate-300">
+                <span>Diffusion &amp; pipelines</span>
+                <span class="h-2.5 w-2.5 rounded-full bg-emerald-400 shadow-[0_0_12px_rgba(52,211,153,0.8)]"></span>
+              </div>
+              <div class="flex items-center justify-between rounded-2xl border border-slate-700 bg-slate-950/60 px-4 py-3 text-sm text-slate-300">
+                <span>Paper implementations</span>
+                <span class="h-2.5 w-2.5 rounded-full bg-emerald-400 shadow-[0_0_12px_rgba(52,211,153,0.8)]"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Features Section -->
+      <section id="notebooks" class="mx-auto w-full max-w-6xl px-6 py-16">
+        <h2 class="text-3xl font-semibold">Designed for fast experimentation</h2>
+        <p class="mt-3 text-base text-slate-300">
+          Each notebook is structured to help you learn, run, and extend models with minimal setup.
+        </p>
+        <a
+          class="mt-3 inline-flex items-center gap-2 text-sm font-medium text-cyan-300 transition hover:text-cyan-200"
+          href="https://github.com/Aisuko/generative-ai#notebooks"
+        >
+          View the full notebook table on GitHub →
+        </a>
+        <div class="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+          <div class="rounded-2xl border border-slate-800 bg-slate-900/60 p-6 shadow-lg transition hover:-translate-y-1">
+            <div class="mb-4 flex h-10 w-10 items-center justify-center rounded-xl bg-cyan-400/10 text-cyan-300">⚡</div>
+            <h3 class="text-lg font-semibold">Instant launch</h3>
+            <p class="mt-2 text-sm text-slate-300">Open directly in SageMaker Studio Lab, Kaggle, or Colab with one click.</p>
+          </div>
+          <div class="rounded-2xl border border-slate-800 bg-slate-900/60 p-6 shadow-lg transition hover:-translate-y-1">
+            <div class="mb-4 flex h-10 w-10 items-center justify-center rounded-xl bg-cyan-400/10 text-cyan-300">🧭</div>
+            <h3 class="text-lg font-semibold">Guided learning path</h3>
+            <p class="mt-2 text-sm text-slate-300">Structured progression from fundamentals to advanced diffusion systems.</p>
+          </div>
+          <div class="rounded-2xl border border-slate-800 bg-slate-900/60 p-6 shadow-lg transition hover:-translate-y-1">
+            <div class="mb-4 flex h-10 w-10 items-center justify-center rounded-xl bg-cyan-400/10 text-cyan-300">🧪</div>
+            <h3 class="text-lg font-semibold">Experiment-ready</h3>
+            <p class="mt-2 text-sm text-slate-300">Clean templates that encourage iteration and self-directed research.</p>
+          </div>
+          <div class="rounded-2xl border border-slate-800 bg-slate-900/60 p-6 shadow-lg transition hover:-translate-y-1">
+            <div class="mb-4 flex h-10 w-10 items-center justify-center rounded-xl bg-cyan-400/10 text-cyan-300">🔎</div>
+            <h3 class="text-lg font-semibold">Paper-to-code</h3>
+            <p class="mt-2 text-sm text-slate-300">Implementations that connect key research papers with practical code.</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Platform Section -->
+      <section id="platform" class="mx-auto w-full max-w-6xl px-6 py-16">
+        <div class="grid gap-10 lg:grid-cols-[1.1fr_0.9fr]">
+          <div>
+            <h2 class="text-3xl font-semibold">A platform built for learning teams</h2>
+            <p class="mt-3 text-base text-slate-300">
+              Maintain a single source of truth for your ML practice, synced with automated README tables
+              and a clean notebook directory structure.
+            </p>
+            <div class="mt-6 flex flex-wrap gap-4">
+              <a
+                class="rounded-full bg-gradient-to-r from-emerald-400 to-cyan-400 px-6 py-3 text-sm font-semibold text-slate-900 transition hover:scale-105"
+                href="https://github.com/Aisuko/generative-ai#notebooks"
+              >
+                Open README
+              </a>
+              <a
+                class="rounded-full border border-slate-600 px-6 py-3 text-sm font-semibold text-slate-100 transition hover:border-cyan-400 hover:text-cyan-300"
+                href="https://github.com/Aisuko/generative-ai/issues"
+              >
+                Report an issue
+              </a>
+            </div>
+          </div>
+          <div class="space-y-4">
+            <div class="rounded-2xl border border-slate-800 bg-slate-900/70 p-5 text-sm text-slate-300">
+              ✅ Auto-generated catalog of every notebook in the repo.
+            </div>
+            <div class="rounded-2xl border border-slate-800 bg-slate-900/70 p-5 text-sm text-slate-300">
+              ✅ Consistent structure across audio, vision, NLP, and diffusion domains.
+            </div>
+            <div class="rounded-2xl border border-slate-800 bg-slate-900/70 p-5 text-sm text-slate-300">
+              ✅ Reusable templates for fast onboarding and lab sessions.
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Metrics Section -->
+      <section id="metrics" class="mx-auto w-full max-w-6xl px-6 py-16">
+        <h2 class="text-3xl font-semibold">Momentum at a glance</h2>
+        <p class="mt-3 text-base text-slate-300">Track how the curriculum evolves and keeps growing.</p>
+        <div class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+          <div class="rounded-2xl border border-slate-800 bg-slate-900/60 p-6">
+            <div class="text-3xl font-semibold text-white">30+</div>
+            <div class="mt-2 text-sm text-slate-400">Notebook sessions</div>
+          </div>
+          <div class="rounded-2xl border border-slate-800 bg-slate-900/60 p-6">
+            <div class="text-3xl font-semibold text-white">4</div>
+            <div class="mt-2 text-sm text-slate-400">Core domains</div>
+          </div>
+          <div class="rounded-2xl border border-slate-800 bg-slate-900/60 p-6">
+            <div class="text-3xl font-semibold text-white">3</div>
+            <div class="mt-2 text-sm text-slate-400">Launch platforms</div>
+          </div>
+          <div class="rounded-2xl border border-slate-800 bg-slate-900/60 p-6">
+            <div class="text-3xl font-semibold text-white">1</div>
+            <div class="mt-2 text-sm text-slate-400">Unified learning path</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- CTA Section -->
+      <section class="mx-auto w-full max-w-5xl px-6 pb-24">
+        <div class="rounded-3xl border border-slate-800 bg-gradient-to-r from-slate-900 via-slate-900/80 to-slate-950 p-10 text-center">
+          <h2 class="text-3xl font-semibold">Ready to build?</h2>
+          <p class="mx-auto mt-4 max-w-2xl text-base text-slate-300">
+            Clone the repo, open a notebook, and start experimenting today. Contributions and new notebooks
+            are always welcome.
+          </p>
+          <div class="mt-6 flex flex-wrap justify-center gap-4">
+            <a
+              class="rounded-full bg-gradient-to-r from-cyan-400 to-blue-500 px-6 py-3 text-sm font-semibold text-slate-900 shadow-lg transition hover:scale-105"
+              href="https://github.com/Aisuko/generative-ai"
+            >
+              Get started
+            </a>
+            <a
+              class="rounded-full border border-slate-600 px-6 py-3 text-sm font-semibold text-slate-100 transition hover:border-cyan-400 hover:text-cyan-300"
+              href="https://github.com/Aisuko/generative-ai/blob/main/CONTRIBUTING.md"
+            >
+              Contribute
+            </a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="border-t border-slate-800 bg-slate-950">
+      <div class="mx-auto flex w-full max-w-6xl flex-wrap items-center justify-between gap-4 px-6 py-6 text-xs text-slate-400">
+        <span>Generative AI Notebooks</span>
+        <span>Built for GitHub Pages deployment</span>
+      </div>
+    </footer>
+  </body>
+</html>

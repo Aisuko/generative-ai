@@ -1,0 +1,34 @@
+name: Update README notebooks
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Regenerate notebook tables
+        run: python scripts/generate_readme_notebooks.py
+      - name: Commit README if updated
+        run: |
+          if git status --porcelain | grep -q 'README.md'; then
+            git config user.name 'github-actions[bot]'
+            git config user.email 'github-actions[bot]@users.noreply.github.com'
+            git add README.md
+            git commit -m 'chore: update README notebook links'
+            git push
+          fi
